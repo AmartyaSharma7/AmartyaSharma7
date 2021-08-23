@@ -1,6 +1,6 @@
 👋 Hi, I’m @AmartyaSharma7 , Amartya Sharma
 
-👀 ’m interested in competitive coding, analysis of algorithms and problem solving
+👀 ’m interested in problem solving , data structures and analysis of algorithms.
 
 🌱 I’m currently learning the concepts of Machine learning and Artificial Intelligence 
 
